@@ -21,6 +21,7 @@ Green = future
 
 ![workday scheduler website](assets/images/screenshot.png)
 
+https://sadums.github.io/work-day-scheduler/ 
 ## Credits
 
 N/A
