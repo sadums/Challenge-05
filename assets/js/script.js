@@ -22,10 +22,8 @@ $(function () {
         }
         if(timeBlockHour < currentTime){
             timeBlocks.eq(i).addClass('past');
-            break;
         }else if(timeBlockHour === currentTime){
             timeBlocks.eq(i).addClass('present');
-            break;
         }else{
             timeBlocks.eq(i).addClass('future');
         }
